@@ -1,17 +1,15 @@
 # CGPT2.0
 
-# Server
+## Server (Backend)
 
-cd server
-npm install
-nodemon app
+#### cd server 
+####  npm install
+####  nodemon app
+##
+##  cd ..
 
-cd ..
+## Client (Frontend)
 
-# Client
-
-cd client
-npm install 
-npm start
-
-
+####  cd client
+####  npm install 
+####  npm start
